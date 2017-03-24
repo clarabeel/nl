@@ -22,9 +22,9 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 4,
+    "uniqCompNum": 5,
     "versionPublish": "3.12.1",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/screenshot-128x70.png",
     "noImageResize": "",
     "google-analytics": ""
   },
