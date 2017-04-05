@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "clarabeel",
-    "currentPage": "projects.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -33,8 +33,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "clara beel",
+        "meta_descr": "home page",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -224,8 +224,8 @@
     },
     "about.html": {
       "settings": {
-        "title": "Web Site Maker Title",
-        "meta_descr": "Web Site Maker Description"
+        "title": "about",
+        "meta_descr": "about"
       },
       "components": [
         {
@@ -478,8 +478,8 @@
     },
     "projects.html": {
       "settings": {
-        "title": "Site Builder Title",
-        "meta_descr": "Site Builder Description"
+        "title": "projects",
+        "meta_descr": "projects"
       },
       "components": [
         {
