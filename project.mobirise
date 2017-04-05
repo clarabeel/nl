@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 40,
+    "uniqCompNum": 42,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/screenshot-128x70.png",
     "noImageResize": "",
@@ -219,6 +219,51 @@
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-15",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/posters-print-handen-1400x989.jpg",
+              "width": 1400,
+              "link": "projects.html#slider-12",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "_params": {
+            "showText": false
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-13",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "©2014-2017 Clara Beel. This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License."
         }
       ]
     },
@@ -773,7 +818,7 @@
                 "showTitle": true,
                 "title": "Jean-Luc Godard",
                 "showText": true,
-                "text": "A triptych of 3 posters for movies of Jean-Luc Godard.",
+                "text": "A triptych of posters for movies of Jean-Luc Godard.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -818,6 +863,44 @@
             "overlayColor": "#444444"
           },
           "text": "©2014-2017 Clara Beel. This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/posters-print-handen-2000x1414.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Ghent Art Book Fair",
+                "showText": true,
+                "text": "2 posters made for the Ghent Art Book Fair, one for promotional purposes and one for decoration at the fair",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": false
+          },
+          "_anchor": "slider-14",
+          "articleLayout": false,
+          "_styles": {
+            "P": {
+              "font-size": "18px"
+            }
+          }
         }
       ]
     }
