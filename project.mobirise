@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "clarabeel",
-    "currentPage": "index.html",
+    "currentPage": "posters.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -744,8 +744,8 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/triptych.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/drie.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -759,8 +759,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/triptych.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/drie.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
