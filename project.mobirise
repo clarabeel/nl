@@ -151,7 +151,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/output_fnj2y7.gif",
+              "src": "@PROJECT_PATH@/assets/images/output-fnj2y7.gif",
               "width": 1400,
               "link": "projects.html#slider-23",
               "alt": "",
@@ -198,7 +198,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "posters.html#slider-14",
+              "link": "projects.html#slider-14",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -214,7 +214,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "posters.html#slider-11",
+              "link": "projects.html#slider-11",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -230,7 +230,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "posters.html#slider-3j",
+              "link": "projects.html#slider-3j",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -327,7 +327,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/output_4usfyy.gif",
+              "src": "@PROJECT_PATH@/assets/images/output-4usfyy.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -343,7 +343,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/output_a0seqo.gif",
+              "src": "@PROJECT_PATH@/assets/images/output-a0seqo.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -545,7 +545,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/16602649_1291130017620291_5754072954713218866_n-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/16602649-1291130017620291-5754072954713218866-n-1400x1400.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -690,7 +690,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "file:///Users/Clara/Library/Application%20Support/Mobirise.com/Mobirise/projectData/reincarnation-2000x1416.jpg",
+                "image": "@PROJECT_PATH@/assets/images/reincarnation-2000x1416.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -704,7 +704,7 @@
               },
               {
                 "active": false,
-                "image": "file:///Users/Clara/Library/Application%20Support/Mobirise.com/Mobirise/projectData/printeeeuh22-2000x1416.jpg",
+                "image": "@PROJECT_PATH@/assets/images/printeeeuh22-2000x1416.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -718,7 +718,7 @@
               },
               {
                 "active": false,
-                "image": "file:///Users/Clara/Library/Application%20Support/Mobirise.com/Mobirise/projectData/reincarnation2-2000x1416.jpg",
+                "image": "@PROJECT_PATH@/assets/images/reincarnation2-2000x1416.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -732,7 +732,7 @@
               },
               {
                 "active": false,
-                "image": "file:///Users/Clara/Library/Application%20Support/Mobirise.com/Mobirise/projectData/reincarnation8-2000x1416.jpg",
+                "image": "@PROJECT_PATH@/assets/images/reincarnation8-2000x1416.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -746,7 +746,7 @@
               },
               {
                 "active": false,
-                "image": "file:///Users/Clara/Library/Application%20Support/Mobirise.com/Mobirise/projectData/reincarnation4-2000x1416.jpg",
+                "image": "@PROJECT_PATH@/assets/images/reincarnation4-2000x1416.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -760,7 +760,7 @@
               },
               {
                 "active": false,
-                "image": "file:///Users/Clara/Library/Application%20Support/Mobirise.com/Mobirise/projectData/printeeeuh23-2000x1416.jpg",
+                "image": "@PROJECT_PATH@/assets/images/printeeeuh23-2000x1416.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -774,7 +774,7 @@
               },
               {
                 "active": false,
-                "image": "file:///Users/Clara/Library/Application%20Support/Mobirise.com/Mobirise/projectData/printeeeuh26-2000x1416.jpg",
+                "image": "@PROJECT_PATH@/assets/images/printeeeuh26-2000x1416.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -812,7 +812,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/posters%20print%20handen-2000x1414.jpg",
+                "image": "@PROJECT_PATH@/assets/images/posters-print-handen-2000x1414.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -864,7 +864,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "file:///Users/Clara/Library/Application%20Support/Mobirise.com/Mobirise/projectData/1-2000x1332.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1332.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -878,7 +878,7 @@
               },
               {
                 "active": false,
-                "image": "file:///Users/Clara/Library/Application%20Support/Mobirise.com/Mobirise/projectData/output_ucrejv.gif",
+                "image": "@PROJECT_PATH@/assets/images/output-ucrejv.gif",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -892,7 +892,7 @@
               },
               {
                 "active": true,
-                "image": "file:///Users/Clara/Library/Application%20Support/Mobirise.com/Mobirise/projectData/1.gif",
+                "image": "@PROJECT_PATH@/assets/images/1.gif",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -906,7 +906,7 @@
               },
               {
                 "active": false,
-                "image": "file:///Users/Clara/Library/Application%20Support/Mobirise.com/Mobirise/projectData/6.gif",
+                "image": "@PROJECT_PATH@/assets/images/6.gif",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
