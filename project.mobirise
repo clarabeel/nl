@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "clarabeel",
-    "currentPage": "index.html",
+    "name": "clarabeelNL",
+    "currentPage": "projects.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -27,7 +27,8 @@
     "favicon": "@PROJECT_PATH@/assets/images/screenshot-128x70.png",
     "noImageResize": "true",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-96182121-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
-    "cookiesAlert": ""
+    "cookiesAlert": "",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -134,7 +135,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Clara Beel</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"index.html\">Home</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"about.html\">About</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"projects.html\">Projects</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"projects.html\">Nederlands</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"index.html\">Start</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"about.html\">Over</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"projects.html\">Projecten</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"projects.html\">English</a></li>"
         },
         {
           "_tags": [
@@ -564,7 +565,7 @@
             }
           },
           "title": "Clara Beel",
-          "text": "3th year Graphic Design student, Sint-Lucas Gent, Belgium.<br>",
+          "text": "Student 3e jaar grafisch ontwerp, Sint-Lucas Gent, Belgium.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>"
         },
         {
@@ -633,7 +634,7 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "<span style=\"font-weight: normal;\">Contact me</span>",
+          "title": "<span style=\"font-weight: normal;\">Contacteer mij</span>",
           "subtitle": "",
           "form": {
             "action": "claracbeel@gmail.com",
@@ -662,7 +663,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Verzend</a>"
         }
       ]
     },
@@ -698,7 +699,7 @@
                 "showTitle": true,
                 "title": "What to become — after",
                 "showText": true,
-                "text": "A publication about reincarnation.<br>Made during my Erasmus in HDK, Gothenburg, Sweden.",
+                "text": "\"Wat te worden - erna\" <br>Een publicatie over reïncarnatie.<br>Gemaakt tijdens Clara's Eramsus aan HDK, Göteborg, Zweden.&nbsp;<br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
@@ -820,7 +821,7 @@
                 "showTitle": true,
                 "title": "Ghent Art Book Fair",
                 "showText": true,
-                "text": "2 posters made for the Ghent Art Book Fair, <br>one for promotional purposes and one for decoration at the fair",
+                "text": "2 posters gemaakt voor de Ghent Art Book Fair (Gentse kunstboekenbeurs),<br>één als aankondiging en één als decoratie op de beurs.<br><br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -872,7 +873,7 @@
                 "showTitle": true,
                 "title": "Brazil",
                 "showText": true,
-                "text": "A site about the character of Jill Layton in the movie Brazil, directed by Terry Gilliam.",
+                "text": "Een site over Jill Layton, een personage in de film Brazil, geregisseerd door Terry Gilliam.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -956,7 +957,7 @@
                 "showTitle": true,
                 "title": "Jean-Luc Godard",
                 "showText": true,
-                "text": "A triptych of posters for movies of Jean-Luc Godard.",
+                "text": "Een drieluik van posters voor films van Jean-Luc Godard.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -1041,9 +1042,9 @@
                 "overlayOpacity": "0.4",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Spring",
+                "title": "Lente",
                 "showText": true,
-                "text": "A poster made on the first day of spring.<br>",
+                "text": "Een poster gemaakt op de eerste dag van de lente.<br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
